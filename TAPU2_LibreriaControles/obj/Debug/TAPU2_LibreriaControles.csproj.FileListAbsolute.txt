@@ -1,0 +1,40 @@
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.dll
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.pdb
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.AssemblyReference.cache
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.UserControl1.resources
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.GenerateResource.cache
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.CoreCompileInputs.cache
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.dll
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.pdb
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Animacion.resources
+C:\Users\lab2_equipo7\source\repos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Properties.Resources.resources
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.dll
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.pdb
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.AssemblyReference.cache
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Animacion.resources
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Properties.Resources.resources
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.UserControl1.resources
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.GenerateResource.cache
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.CoreCompileInputs.cache
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.dll
+C:\Users\lab2_equipo6\Desktop\el miguelon\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.pdb
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.dll
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.pdb
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.AssemblyReference.cache
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Animacion.resources
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Properties.Resources.resources
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.UserControl1.resources
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.GenerateResource.cache
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.CoreCompileInputs.cache
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.dll
+F:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.pdb
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.dll
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\bin\Debug\TAPU2_LibreriaControles.pdb
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.AssemblyReference.cache
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Animacion.resources
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.Properties.Resources.resources
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.UserControl1.resources
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.GenerateResource.cache
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.csproj.CoreCompileInputs.cache
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.dll
+E:\Tec\TAP\Codigos\TAPU2_LibreriaControles\obj\Debug\TAPU2_LibreriaControles.pdb
